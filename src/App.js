@@ -1,4 +1,4 @@
-import styles from "./index.css"
+// import styles from "./index.css"
 import Header from "./Components/header"
 import Body from "./Components/body"
 import Footer from "./Components/footer"

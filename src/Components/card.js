@@ -19,7 +19,7 @@ const Card = () => {
         fetchData();
     },[])
   return (
-    <div>{console.log(resturantData?.data?.cards)}</div>
+    <div>{console.log(resturantData?.data)}</div>
   )
 }
 
